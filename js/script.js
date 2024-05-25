@@ -140,7 +140,7 @@ const members = {
         totalPayable
     },
     "01780608997":{
-        name:"Tusar",
+        name:"Md Tushar Biswas",
         // pre-previous month list
         post_payable        :3500,
         previous_paid       :500,
@@ -227,7 +227,7 @@ const members = {
         garage_cost     :0,
         running_payable :3661,
         running_paid    :6300,
-        running_meal    :30,
+        running_meal    :29,
         // method calling
         preMonth,
         runningDiningCost,
